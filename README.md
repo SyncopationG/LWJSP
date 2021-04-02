@@ -1,2 +1,2 @@
 # LWJSP
-Data for the limited waiting time job shop.
+Data for the limited wait time job shop.  
