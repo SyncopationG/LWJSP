@@ -1,10 +1,9 @@
 Data for the limited wait job shop, which is based on benchmark instances.
 Benchmark instances: http://people.brunel.ac.uk/~mastjjb/jeb/orlib/files/jobshop1.txt.
 For each benchmark instance, except the last operation of a job, the allowable waiting time of n operations is infinite,
-and there is a total of (n-2)*m operations which the allowable waiting time is uniformly distributed from 0 to 10.
-Each instance consists of a line of description, a line containing the 
-number of jobs and the number of machines, and then one line for each job,
-listing the machine number, processing time, limited waiting time for each step of the job. 
+and there is a total of (n-2)*m operations that the allowable waiting time is uniformly distributed from 0 to 10.
+Each instance consists of a line of description, a line containing the number of jobs and the number of machines, 
+and then one line for each job, listing the machine number, processing time, limited waiting time for each step of the job. 
 The machines are numbered starting with 0.
 Let the waiting time -1 represents infinite waiting time or called no limited waiting time constrain.
 
