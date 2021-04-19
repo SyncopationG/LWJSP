@@ -1,4 +1,4 @@
-Best known solution of limited waiting job shop, which is tested by OR-Tools with 3600 seconds maximal solve time(Only test 1 time for all).
+Solution of limited wait job shop by OR-Tools with 3600 seconds maximal solve time(Only test 1 time for all).
 instance = {
     "ft06": 59,
     "ft10": 1170,
